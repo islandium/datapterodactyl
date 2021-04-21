@@ -1,0 +1,6 @@
+settings:
+  bungee-online-mode: true
+  velocity-support:
+    enabled: true
+    online-mode: false
+    secret: 'xVuLpJtfpeZw'

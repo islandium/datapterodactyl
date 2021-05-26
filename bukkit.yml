@@ -1,0 +1,27 @@
+settings:
+  allow-end: false
+  warn-on-overload: true
+  permissions-file: permissions.yml
+  update-folder: update
+  plugin-profiling: false
+  connection-throttle: 4000
+  query-plugins: true
+  deprecated-verbose: default
+  shutdown-message: Le serveur est actuellement fermé, essayez plus tard
+  minimum-api: none
+spawn-limits:
+  monsters: 20
+  animals: 15
+  water-animals: 5
+  water-ambient: 10
+  ambient: 15
+chunk-gc:
+  period-in-ticks: 600
+ticks-per:
+  animal-spawns: 400
+  monster-spawns: 400
+  water-spawns: 50
+  water-ambient-spawns: 30
+  ambient-spawns: 30
+  autosave: 18000
+aliases: now-in-commands.yml

@@ -91,10 +91,6 @@ proxies:
   bungee-cord:
     online-mode: true
   proxy-protocol: false
-  velocity:
-    enabled: true
-    online-mode: true
-    secret: efefefefefefefefefefefefefefefefefefefefe
 scoreboards:
   save-empty-scoreboard-teams: false
   track-plugin-scoreboards: false
